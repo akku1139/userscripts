@@ -7,7 +7,8 @@
 // @match        *://*.youtube.com/*
 // @match        *://*.youtube-nocookie.com/*
 // @match        *://*.youtu.be/*
-// @grant        none
+// @grant        GM_getValues
+// @grant        GM_setValue
 // @run-at       document-start
 // ==/UserScript==
 
@@ -38,13 +39,23 @@
  */
 
 const config = {
-  'block_60fps': true,
-  'block_h264':  false,
-  'block_vp8':   true,
-  'block_vp9':   true,
-  'block_av1':   true,
-  'disable_LN':  true,
+  block_60fps: false,
+  block_h264:  false,
+  block_vp8:   true,
+  block_vp9:   true,
+  block_av1:   true,
+  disable_LN:  false,
 };
+
+const saved = GM_getValues(Object.fromEntries(Object.keys(config).map(k => [k, null])));
+
+for (const key in config) {
+  if (saved[key] !== null) {
+    config[key] = saved[key];
+  } else {
+    GM_setValue(key, config[key]);
+  }
+}
 
 function inject () {
 
