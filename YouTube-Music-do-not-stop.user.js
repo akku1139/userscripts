@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        No stop YouTube Music
-// @namespace   https://github.com/akku1139/userscripts
+// @namespace   Violentmonkey Scripts
 // @match       https://music.youtube.com/*
 // @grant       none
 // @author      akku

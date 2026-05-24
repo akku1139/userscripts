@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Anime4K niconico
-// @namespace   https://github.com/akku1139/userscripts
+// @namespace   Violentmonkey Scripts
 // @match       https://www.nicovideo.jp/*
 // @author      akku
 // @grant       none

@@ -3,7 +3,7 @@
 // @description クリックするとCosenseにページを保存します
 // @homepageURL https://github.com/akku1139/userscripts
 // @license     Unlicense
-// @namespace   https://github.com/akku1139/userscripts
+// @namespace   Violentmonkey Scripts
 // @match       *://*/*
 // @grant       GM_setValue
 // @grant       GM_getValue

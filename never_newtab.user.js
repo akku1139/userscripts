@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        絶対新しいタブで開かない
-// @namespace   https://github.com/akku1139/userscripts
+// @namespace   Violentmonkey Scripts
 // @match       *://*/*
 // @grant       none
 // @version     1.0

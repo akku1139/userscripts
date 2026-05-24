@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         enhanced-h264ify
-// @namespace    https://github.com/akku1139/userscripts
+// @namespace    Violentmonkey Scripts
 // @version      0.1
 // @description  enhanced-h264ify for user script.
 // @author       akku

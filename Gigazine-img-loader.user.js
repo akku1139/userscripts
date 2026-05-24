@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Gigazine img loader
-// @namespace   https://github.com/akku1139/userscripts
+// @namespace   Violentmonkey Scripts
 // @match       https://gigazine.net/news/*
 // @grant       none
 // @version     1.0
