@@ -3,7 +3,7 @@
 // @namespace   https://github.com/akku1139/userscripts
 // @match       *://*/*
 // @grant       none
-// @version     1.0.1
+// @version     1.0
 // @author      -
 // @description 12/7/2023, 10:44:38 PM
 // @license     Unlicense

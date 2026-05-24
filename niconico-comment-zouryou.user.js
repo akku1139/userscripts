@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ニコニコ コメント増量インジェクター
 // @namespace    https://github.com/akku1139/userscripts
-// @version      1.0.1
+// @version      1.0.0
 // @description  /v1/threads のレスポンスに過去コメントを全件追加して増量する
 // @author       akku
 // @match        https://www.nicovideo.jp/*

@@ -4,7 +4,7 @@
 // @match       https://www.nicovideo.jp/*
 // @author      akku
 // @grant       none
-// @version     1.0.1
+// @version     1.0
 // @author      -
 // @description 4/22/2026, 10:57:04 PM
 // @top-level-await

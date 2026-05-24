@@ -9,7 +9,7 @@
 // @grant       GM_getValue
 // @grant       GM_registerMenuCommand
 // @grant       GM_openInTab
-// @version     0.2.3
+// @version     0.2.2
 // @author      akku <akku1139>
 // ==/UserScript==
 
