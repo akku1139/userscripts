@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        GitHub Advisory Textarea Resize Fix
 // @namespace   https://github.com/akku1139/userscripts/blob/main/GitHub-Advisory-Textarea-Resize-Fix.user.js
-// @version     1.0.0
+// @version     1.0.1
 //
 // @match       https://github.com/*
 // @grant       GM_addStyle

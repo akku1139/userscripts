@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         enhanced-h264ify
 // @namespace    https://github.com/akku1139/userscripts/blob/main/enhanced-h264ify.user.js
-// @version      0.1
+// @version      0.1.1
 // @description  enhanced-h264ify for user script.
 // @author       akku
 // @match        *://*.youtube.com/*

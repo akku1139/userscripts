@@ -8,6 +8,7 @@
 // @description YouTube music has been modified to detect tab transitions and stop the music.
 // @run-at      document-start
 // @license     Unlicense
+// @version     1.0
 // ==/UserScript==
 
 // https://gist.github.com/akku1139/29133fcecf9bbb981908fed7ab4bad5f

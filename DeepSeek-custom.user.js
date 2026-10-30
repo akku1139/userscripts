@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        DeepSeek custom
 // @namespace   https://github.com/akku1139/userscripts/blob/main/DeepSeek-custom.user.js
-// @version     1.0.0
+// @version     1.0.1
 // @match       https://chat.deepseek.com/*
 // @grant       GM_addStyle
 //
