@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        絶対新しいタブで開かない
-// @namespace   Violentmonkey Scripts
+// @namespace   https://github.com/akku1139/userscripts/blob/main/never_newtab.user.js
 // @match       *://*/*
 // @grant       none
 // @version     1.0
